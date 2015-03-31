@@ -1,0 +1,23 @@
+{
+  "name": "nodeCMS",
+  "version": "0.1.0",
+  "authors": [
+    "jmadden85 <jmadden85@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "public/libraries/"
+  ],
+  "dependencies": {
+    "angular-route": "~1.3.12",
+    "angular": "~1.3.12",
+    "bootstrap": "~3.3.2",
+    "jquery": "~2.1.3"
+  },
+  "homepage": "https://github.com/jmadden85/ncms-nice"
+}
